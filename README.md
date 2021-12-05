@@ -13,6 +13,11 @@
 - Maven 3.8.4
 - PostgreSQL 14
 
+#### Dependencies
+- Spring Web
+- Spring Data JPA
+- PostgreSQL Driver
+
 #### Keyboard Shortcuts(Windows):
 - To see defaults and parameter: Ctrl+P
 - To clean imports: Ctrl+Alt+O
