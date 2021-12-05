@@ -20,10 +20,10 @@ Spring Initializer: https://start.spring.io/
 - PostgreSQL Driver
 
 #### Keyboard Shortcuts(Windows):
-- To see defaults and parameter: Ctrl+P
+- To see defaults and parameter: Ctrl+P / Cmd + P
 - To clean imports: Ctrl+Alt+O
-- To genertate constructors/getters/setters: Alt+Insert
-- To create Methods: Alt+Enter
+- To genertate constructors/getters/setters: Alt+Insert / Cmd + N
+- To create Methods: Alt+Enter / / Cmd + N
 
 #### Deployement
 - mvn clean install
